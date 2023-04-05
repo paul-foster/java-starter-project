@@ -23,5 +23,40 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 *Work in progress*
 
+### Module 1 Exercises
+
+- [ ] Change the `System.out.println` statement in App.java to print out "GO FOR MECO"
+- [ ] Add more lines of code to print out: "What's 8 times 3?",  "24!", "83", "24"
+
+### Module 2 Exercises
+
+- [ ] Replace all the `System.out.println` lines in App.java with a series of lines of code that 
+** Asks the user "What's 8 X 3?"
+** Accepts input from the user and assigns the value the user entered to an integer variable.
+** Prints out the number 83
+** Prints out the number the user entered
+
+- [ ] Repeat the program using "GO FOR" and "MECO"
+
+### Module 3 Exercises
+
+- [ ] Write a program that computes the position an infinite recharge ball travels:
+** Ask the user the x value 
+** Enter the x value into this quadratic:  y=-0.16x^2 + 3.6x + 1.2
+** Print out the y value for the provided inputs.
+
+### Module 4 Exercises
+
+### Module 5 Exercises
+
+### Module 6 Exercises
+
+### Module 7 Exercises
+
+### Module 8 Exercises
+
+### Module 9 Exercises
+
+
 Console color constants class:
 https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println/45444716#45444716
