@@ -30,8 +30,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ### Module 2 Exercises
 
-- [ ] Replace all the `System.out.println` lines in App.java with a series of lines of code that 
-
+- [ ] Replace all the `System.out.println` lines in App.java with a series of lines of code that
     * Asks the user "What's 8 X 3?"
     * Accepts input from the user and assigns the value the user entered to an integer variable.
     * Prints out the number 83
@@ -43,8 +42,15 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 - [ ] Write a program that computes the position an infinite recharge ball travels:
     * Ask the user the x value 
-    * Enter the x value into this quadratic:  y=-0.16x^2 + 3.6x + 1.2
+    * Enter the x value into this quadratic:  y=-0.16x^2 + 3.6x + 1.2. This is a quadratic equation in standard form where:
+      * a = -0.16
+      * b = 3.6
+      * c = 1.2
     * Print out the y value for the provided inputs.
+
+- [ ] Find the total distance traveled by the ball.
+    * Find the roots of the quadratic in the previous exercise using the quadratic formula.
+    * The positive root represents the distance traveled. Print it out with a label.
 
 ### Module 4 Exercises
 
