@@ -54,6 +54,13 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ### Module 4 Exercises
 
+- [ ] Write a program that allows the user to determine if a 4 digit number has the first 2 digits multiplied to equal the last two
+    * Ask the user to enter a 4 digit number - be sure to produce an error if their answer isn't 4 digits.
+    * Break the string up into 3 strings - the first digit, second digit, and last two digits
+    * Convert each of the strings into integers 
+    * Check to see if the multiplication works
+    * Print an answer
+
 ### Module 5 Exercises
 
 ### Module 6 Exercises
