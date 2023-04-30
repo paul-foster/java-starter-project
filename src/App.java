@@ -3,12 +3,18 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        System.out.print("What's 8 X 3? ");
-
         Scanner scanner = new Scanner(System.in);
 
-        int answer = scanner.nextInt();
+        System.out.print("Enter any number: ");
+        int i = scanner.nextInt();
+        System.out.println(i);
 
-        System.out.println("83" + answer);
+        System.out.print("Enter any number: ");
+        float f = scanner.nextFloat();
+        System.out.println(f);
+
+        System.out.print("Enter any character: ");
+        String s = scanner.next();
+        System.out.println(s.charAt(0));
     }
 }
