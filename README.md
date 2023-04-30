@@ -44,13 +44,10 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
  * `float f = scanner.nextInt();` - gets a number from the console and sets to a float variable 'f'
  * `String s = scanner.next();` - gets a string from the console and sets to a String variable 's'
 
-
-
-- [ ] Run the program with these inputs and observe the results with each run
-    * 83,     24,     M
-    * 83.24,  24,     M
-    * 83,     83.24,  M
-    * 83,     83.24,  MECO
+- [ ] Run the program and put in `8` for every answer
+- [ ] Run the program and put in `8324` for every answer
+- [ ] Run the program and put in `8.324` for every answer
+- [ ] Run the program and put in `A` for every answer
 
 ### Module 3 Exercises
 
