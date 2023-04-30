@@ -31,12 +31,23 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ### Module 2 Exercises
 
 - [ ] Replace all the `System.out.println` lines in App.java with a series of lines of code that
-    * Asks the user "What's 8 X 3?"
-    * Accepts input from the user and assigns the value the user entered to an integer variable.
-    * Prints out the number 83
-    * Prints out the number the user entered
+    * Asks the user to enter any number
+    * Assign the input to an integer variable, then print the number variable
+    * Ask the user to enter another number
+    * Assign the input to a floating point number variable, then print the number variable
+    * Ask the user to enter a single character
+    * Assign the input to a character variable, then print the character variable
 
-- [ ] Repeat the program using "GO FOR" and "MECO"
+
+#### HINT
+ * `int i = scanner.nextInt();` - gets a number from the console and sets to an int variable 'i'
+ * `float f = scanner.nextInt();` - gets a number from the console and sets to a float variable 'f'
+ * `String s = scanner.next();` - gets a string from the console and sets to a String variable 's'
+
+- [ ] Run the program and put in `8` for every answer
+- [ ] Run the program and put in `8324` for every answer
+- [ ] Run the program and put in `8.324` for every answer
+- [ ] Run the program and put in `A` for every answer
 
 ### Module 3 Exercises
 
