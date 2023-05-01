@@ -16,5 +16,10 @@ public class App {
         System.out.print("Enter any character: ");
         String s = scanner.next();
         System.out.println(s.charAt(0));
+
+        short x = Short.MAX_VALUE;
+        System.out.println(x);
+        x++;
+        System.out.println(x);
     }
 }
